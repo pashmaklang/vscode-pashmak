@@ -1,0 +1,25 @@
+{
+    "name": "vscode-pashmak",
+    "displayName": "Pashmak programming language",
+    "description": "Pashmak programming language support for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "pashmak",
+            "aliases": ["Pashmak", "pashmak"],
+            "extensions": [".pashm"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "pashmak",
+            "scopeName": "source.pashm",
+            "path": "./syntaxes/pashmak.tmLanguage.json"
+        }]
+    }
+}
