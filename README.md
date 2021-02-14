@@ -11,4 +11,4 @@ The Pashmak programming language syntax highlighter for **Visual Studio Code**
 </a>
 
 ## Get started
-To install this extension manually, copy this folder to `<home>/.vscode/extension`. then open the vscode.
+To install this extension manually, copy this folder to `<home>/.vscode/extension`, then open the vscode.
