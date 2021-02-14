@@ -1,5 +1,5 @@
 # vscode Pashmak
-The Pashmak programming language syntax highlighter for vscode.
+The Pashmak programming language syntax highlighter for **Visual Studio Code**
 
 <a href="https://github.com/sami2020pro/vscode-pashmak/tree/main/data/preview.png">
 	<img
