@@ -4,7 +4,7 @@
     "description": "Pashmak programming language support for VSCode",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.35.0"
     },
     "categories": [
         "Programming Languages"
