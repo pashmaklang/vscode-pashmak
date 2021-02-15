@@ -101,11 +101,6 @@
 		"comments": {
 			"name": "comment.line.number-sign.pashmak",
 			"begin": "(\\#)",
-			"beginCaptures": {
-				"1": {
-					"name": "punctuation.definition.comment.pashmak"
-				}
-			},
 			"end": "($)"
 		}
 	},
