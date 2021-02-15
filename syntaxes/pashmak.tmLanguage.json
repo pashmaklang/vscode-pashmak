@@ -28,6 +28,9 @@
 		},
 		{
 			"include": "#builtin_functions"
+		},
+		{
+			"include": "#comments"
 		}
 	],
 	"repository": {
@@ -94,6 +97,16 @@
 				"name": "entity.name.function.pashmak",
 				"match": "\\b(print|println|printl|perror|printf|clone|define|all_defines|undefine|is_defined|redefine|get|gget|set|gset|python|eval|py_load_file|py_load_module|register_shutdown|rmem|typeof|system|__namespace__|match|isset|read|exit|die|var_dump|out_start|out_end|out_clean|out_get|out_get_clean|func.list|func.exists|func.delete|class.list|class.exists|class.delete)\\b"
 			}]
+		},
+		"comments": {
+			"name": "comment.line.number-sign.pashmak",
+			"begin": "(\\#)",
+			"beginCaptures": {
+				"1": {
+					"name": "punctuation.definition.comment.pashmak"
+				}
+			},
+			"end": "($)"
 		}
 	},
 	"scopeName": "source.pashm"
