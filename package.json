@@ -3,6 +3,7 @@
     "displayName": "Pashmak programming language",
     "description": "Pashmak programming language support for VSCode",
     "version": "0.0.1",
+    "publisher": "parsampsh",
     "engines": {
         "vscode": "^1.35.0"
     },
