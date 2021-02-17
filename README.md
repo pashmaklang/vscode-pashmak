@@ -15,6 +15,10 @@ The [Pashmak programming language](https://github.com/pashmaklang) extension for
 ### Installation
 To install this extension, go to `Extensions` section and search `pashmak` and install this extension!
 
+OR
+
+press `CTRL+p` and enter `ext install parsampsh.vscode-pashmak` to install this extension.
+
 ### Manual installation
 To install this extension manually, copy this folder to `<home>/.vscode/extensions`, then open the vscode:
 
