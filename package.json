@@ -18,7 +18,7 @@
         }],
         "grammars": [{
             "language": "pashmak",
-            "scopeName": "source.pashm",
+            "scopeName": "source.pashmak",
             "path": "./syntaxes/pashmak.tmLanguage.json"
         }]
     }
