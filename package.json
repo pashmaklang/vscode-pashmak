@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "publisher": "parsampsh",
     "repository": "https://github.com/pashmaklang/vscode-pashmak",
+    "icon": "data/pashmak-logo.png",
     "engines": {
         "vscode": "^1.35.0"
     },
