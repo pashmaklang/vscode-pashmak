@@ -1,7 +1,7 @@
 # vscode Pashmak
 The Pashmak programming language syntax highlighter for **Visual Studio Code**
 
-<a href="https://github.com/sami2020pro/vscode-pashmak/tree/main/data/preview.png">
+<a href="data/preview.png">
 	<img
 		src="data/preview.png"
 		raw=true
@@ -11,4 +11,19 @@ The Pashmak programming language syntax highlighter for **Visual Studio Code**
 </a>
 
 ## Get started
-To install this extension manually, copy this folder to `<home>/.vscode/extensions`, then open the vscode.
+To install this extension manually, copy this folder to `<home>/.vscode/extensions`, then open the vscode:
+
+Clone this repo and then:
+
+```bash
+$ cd /path/to/vscode-pashmak/
+$ cp . ~/.vscode/extensions/ -avr
+```
+
+Now, for a test, you can open `test.pashm`:
+
+```bash
+$ code test.pashm
+```
+
+Enjoy it!
