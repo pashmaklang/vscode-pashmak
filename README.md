@@ -1,5 +1,5 @@
 # vscode Pashmak
-The Pashmak programming language syntax highlighter for **Visual Studio Code**
+The [Pashmak programming language](https://github.com/pashmaklang) extension for **Visual Studio Code**.
 
 <a href="data/preview.png">
 	<img
@@ -27,3 +27,6 @@ $ code test.pashm
 ```
 
 Enjoy it!
+
+## Contributing
+If you want to contribute to this project, read [Contributing guide](CONTRIBUTING.md).
