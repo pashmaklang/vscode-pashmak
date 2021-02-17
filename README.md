@@ -11,6 +11,11 @@ The [Pashmak programming language](https://github.com/pashmaklang) extension for
 </a>
 
 ## Get started
+
+### Installation
+To install this extension, go to `Extensions` section and search `pashmak` and install this extension!
+
+### Manual installation
 To install this extension manually, copy this folder to `<home>/.vscode/extensions`, then open the vscode:
 
 Clone this repo and then:
