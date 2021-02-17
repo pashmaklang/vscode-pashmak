@@ -13,7 +13,7 @@
         "languages": [{
             "id": "pashmak",
             "aliases": ["Pashmak", "pashmak"],
-            "extensions": [".pashm"],
+            "extensions": [".pashm", ".pashmt"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
