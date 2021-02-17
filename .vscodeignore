@@ -2,3 +2,4 @@
 .vscode-test/**
 .gitignore
 test.pashm
+pack.sh

@@ -3,7 +3,7 @@ The [Pashmak programming language](https://github.com/pashmaklang) extension for
 
 <a href="data/preview.png">
 	<img
-		src="data/preview.png"
+		src="https://raw.githubusercontent.com/pashmaklang/vscode-pashmak/master/data/preview.png"
 		raw=true
 		alt="Pashmak programming language extension for Visual Studio Code preview"
 		style="margin-right: 10px;"
