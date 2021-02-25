@@ -43,7 +43,7 @@
 		"builtin_commands": {
 			"patterns": [{
 				"name": "constant.character.escape.pashmak",
-				"match": "\\b(return|goto|gotoif|import|import_once|import_run|import_run_once|raise|mem|pass|break|continue|and|or|not|in|is|assert|__docstring__|use|section)\\b"
+				"match": "\\b(return|goto|gotoif|import|import_once|import_run|import_run_once|raise|mem|pass|break|continue|and|or|not|in|is|assert|__docstring__|use|section|label)\\b"
 			}]
 		},
 		"datatypes": {
