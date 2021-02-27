@@ -2,7 +2,7 @@
     "name": "vscode-pashmak",
     "displayName": "Pashmak programming language",
     "description": "Pashmak programming language support for VSCode",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "parsampsh",
     "repository": "https://github.com/pashmaklang/vscode-pashmak",
     "icon": "data/pashmak-logo.png",
