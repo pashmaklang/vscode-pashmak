@@ -37,7 +37,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.pashmak",
-				"match": "\\b(ns|namespace|endnamespace|endns|func|endfunc|class|endclass|if|else|endif|elif|while|endwhile|try|endtry)\\b"
+				"match": "\\b(ns|namespace|endnamespace|endns|func|endfunc|class|endclass|if|else|endif|elif|while|endwhile|try|endtry|end)\\b"
 			}]
 		},
 		"builtin_commands": {
